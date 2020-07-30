@@ -1,0 +1,9 @@
+C:\Users\BENFIN\source\repos\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\BENFIN\source\repos\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\BENFIN\source\repos\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\BENFIN\source\repos\TestApplication\obj\Debug\TestApplicationDesktop.csprojAssemblyReference.cache
+C:\Users\BENFIN\source\repos\TestApplication\obj\Debug\TestApplication.Properties.Resources.resources
+C:\Users\BENFIN\source\repos\TestApplication\obj\Debug\TestApplicationDesktop.csproj.GenerateResource.cache
+C:\Users\BENFIN\source\repos\TestApplication\obj\Debug\TestApplicationDesktop.csproj.CoreCompileInputs.cache
+C:\Users\BENFIN\source\repos\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\BENFIN\source\repos\TestApplication\obj\Debug\TestApplication.pdb
